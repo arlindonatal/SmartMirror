@@ -24,7 +24,7 @@ O MagicMirror possui alguns [módulos já nativos](https://docs.magicmirror.buil
   * [MMM-GooglePhotos](/pages/modules/MMM-GooglePhotos.md) - Exibe fotos da sua conta do Google Photos.
   * [MMM-Selfieshot](/pages/modules/MMM-Selfieshot.md) - Tira uma selfie (permite comando de voz)
   * [MMM-pages](/pages/modules/MMM-pages.md) - Organiza os módulos por página
-  * [MMM-page-indicator](/pages/modules/MMM-page-indicator.md) - Indicador da página atual (integrado ao MMM-pages)
+  * [MMM-page-indicator](/pages/modules/MMM-pages.md) - Indicador da página atual (integrado ao MMM-pages)
   * [WallberryTheme](/pages/modules/WallberryTheme.md) - Altera tema do MagicMirror (cores, fontes, tamanho, etc.) e adiciona background randômico utilizando o Unsplash.
   * [MMM-Remote-Control](/pages/modules/MMM-Remote-Control.md) - Controle remoto para controlar o MagicMirror em outro dispositivo na rede.
 
