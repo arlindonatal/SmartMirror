@@ -20,6 +20,10 @@ Este é um tutorial completo para configuração do Espelho Inteligente (SmartMi
 
 Adicionar snapshot
 
+## Montagem do Espelho
+
+Em construção...
+
 ## Fontes
 - [Raspberry](https://www.raspberrypi.org/downloads/noobs/)
 - [MagicMirror](https://magicmirror.builders/)

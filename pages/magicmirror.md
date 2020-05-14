@@ -45,7 +45,15 @@ npm install
 cp config/config.js.sample config/config.js
 ```
 
-5. Iniciar o MagicMirror:
+5. Altere o config.js para alterar o idioma:
+```
+nano config/config.js
+```
+   - Altere a "language" para o idioma de sua preferência, por ex:
+   ```
+   language: "pt-br",
+   ```
+6. Iniciar o MagicMirror:
 ```
 npm run start
 ```

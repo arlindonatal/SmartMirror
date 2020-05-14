@@ -49,6 +49,6 @@ sudo apt-get install unclutter
 
 ## Alterar boot: (opcional)
 ```
-sudo apt-get install unclutter
+sudo raspi-config
 ```
 - Acesse a opção "Boot Options" e altere para "Desktop" or "Desktop Autologin"
